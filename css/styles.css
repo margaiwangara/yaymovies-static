@@ -10,6 +10,7 @@
   --color-greyish: #e8eeea;
   /* Main Faded */
   --primary-fade: rgba(22, 12, 40, 0.6);
+  --color-secondary-shade: rgb(216, 180, 79);
   /* Link Hover */
   --color-link-hover: #6a6476;
 }
@@ -323,13 +324,17 @@ header .header-caption .caption-inner .center button.btn span.main i {
   color: var(--color-primary);
 }
 
+.movies-container .movie h3:hover {
+  color: var(--color-link-hover);
+}
+
 .movies-container .movie h4 {
   margin: 0;
   text-transform: capitalize;
   letter-spacing: 0.03rem;
   font-weight: 700;
   font-size: 0.75rem;
-  color: var(--color-secondary);
+  color: var(--color-secondary-shade);
 }
 
 .movies-container .movie h5 {
