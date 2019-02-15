@@ -197,7 +197,7 @@ header .header-caption .caption-inner .center button.btn span.main i {
   width: 60%;
   margin: -90px auto 50px auto;
   /*   border: solid 1px #000411; */
-  border: solid 2px var(--color-greyish);
+  border: solid 2px var(--color-secondary-shade);
   border-radius: 0.3rem;
   padding: 0.5rem 0.5rem 1rem 0.5rem;
   box-sizing: border-box;
