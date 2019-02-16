@@ -6,7 +6,7 @@ The project has heavily utilised CSS Flex and Grid layouts. Some animation has a
 
 The site is fully responsive across all devices
 
-####### In This Project
+## In This Project
 
 I learned simple design skills, color co-relation, typography and took the opportunity to improve my skills in CSS. I used flexbox and CSS grid layouts to align most of the components in place.
 
